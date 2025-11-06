@@ -1,11 +1,10 @@
 import type React from "react"
 import type { Metadata } from "next"
-import { Inter, Fira_Code } from "next/font/google"
-import { Analytics } from "@vercel/analytics/next"
 import "./globals.css"
+import ClientLayout from "./client-layout"
 
-const inter = Inter({ subsets: ["latin"] })
-const firaCode = Fira_Code({ subsets: ["latin"] })
+const inter = { subsets: ["latin"] }
+const firaCode = { subsets: ["latin"] }
 
 export const metadata: Metadata = {
   title: "Danielle Guerzon - NetSuite Developer",
@@ -21,8 +20,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`font-sans antialiased`}>
-        {children}
-        <Analytics />
+        <ClientLayout>{children}</ClientLayout>
       </body>
     </html>
   )
