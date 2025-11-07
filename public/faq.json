@@ -1,0 +1,94 @@
+{
+  "faqs": [
+    {
+      "id": 1,
+      "category": "NetSuite Expertise",
+      "question": "What is your experience with Oracle NetSuite?",
+      "answer": "I have 7+ years of experience in enterprise software development with specialized expertise in Oracle NetSuite. As a Senior NetSuite Developer and Principal Technical Consultant, I design and implement NetSuite customizations, integrations, and solutions using SuiteScript 2.0, ensuring best practices and optimal system performance."
+    },
+    {
+      "id": 2,
+      "category": "NetSuite Expertise",
+      "question": "What NetSuite services do you provide?",
+      "answer": "I provide comprehensive NetSuite services including: SuiteScript 2.0 development, custom workflows and processes, API integrations with third-party systems, data migration, solution design, system architecture consultation, and performance optimization."
+    },
+    {
+      "id": 3,
+      "category": "NetSuite Expertise",
+      "question": "Do you have NetSuite certifications?",
+      "answer": "Yes, I am NetSuite Certified SuiteFoundation (2025), demonstrating deep knowledge of the platform. Combined with my hands-on experience at Oracle NetSuite and TAC Solutions Group, I'm well-equipped to handle complex NetSuite implementations."
+    },
+    {
+      "id": 4,
+      "category": "Technical Skills",
+      "question": "What programming languages do you work with?",
+      "answer": "I'm proficient in Java, JavaScript, TypeScript, C#, and have expertise in frameworks including ReactJS, Angular, VueJS, NodeJS, Express, and ASP.NET. I also work with SuiteScript 2.0 for NetSuite customizations."
+    },
+    {
+      "id": 5,
+      "category": "Technical Skills",
+      "question": "What databases and tools do you use?",
+      "answer": "I have extensive experience with SQL, PostgreSQL, MongoDB, NoSQL, and Hibernate. I'm also skilled in cloud platforms (AWS, Azure), containerization (Docker), and DevOps practices including Bash scripting and Linux/Unix administration."
+    },
+    {
+      "id": 6,
+      "category": "Project Experience",
+      "question": "Can you tell me about your notable projects?",
+      "answer": "My key projects include: TwistHRM (HR management platform), FitMyCar.com (e-commerce optimization), Foresight Payment Gateway (SBMA payment portal), BPI Vybe 2.0 (ERP enhancement), and Teleconsultation Platform. Each demonstrates my ability to deliver scalable, user-centric solutions."
+    },
+    {
+      "id": 7,
+      "category": "Project Experience",
+      "question": "Have you worked on payment gateway integrations?",
+      "answer": "Yes, I developed the Foresight Payment Gateway for SBMA locators and integrated BPI Vybe with payment systems. I have solid experience with payment gateway systems, third-party integrations, and transaction processing."
+    },
+    {
+      "id": 8,
+      "category": "Methodology & Process",
+      "question": "What development methodologies do you follow?",
+      "answer": "I follow Agile Scrum methodology, ensuring iterative development, rapid feedback cycles, and continuous improvement. My approach prioritizes clear communication, timely delivery, and collaborative problem-solving with cross-functional teams."
+    },
+    {
+      "id": 9,
+      "category": "Methodology & Process",
+      "question": "Do you mentor and train teams?",
+      "answer": "Yes, I have experience designing and delivering training modules for developers, raising coding standards across teams. I'm passionate about knowledge sharing and helping others grow their technical skills."
+    },
+    {
+      "id": 10,
+      "category": "Services",
+      "question": "What consulting services do you offer?",
+      "answer": "As a Principal Technical Consultant, I provide solution design, system architecture consultation, technical troubleshooting, performance optimization, and strategic technology guidance to help businesses achieve their digital transformation goals."
+    },
+    {
+      "id": 11,
+      "category": "Services",
+      "question": "Can you integrate third-party systems with NetSuite?",
+      "answer": "Absolutely. I specialize in API integrations between NetSuite and third-party applications. I've integrated systems like Oojeema with ERP platforms, streamlining payment and reporting processes across enterprise environments."
+    },
+    {
+      "id": 12,
+      "category": "Services",
+      "question": "Do you provide technical support and troubleshooting?",
+      "answer": "Yes, I provide comprehensive technical support, issue resolution, and troubleshooting services. My focus is on reducing client downtime, improving system performance, and ensuring high satisfaction through proactive problem-solving."
+    },
+    {
+      "id": 13,
+      "category": "Background",
+      "question": "What is your educational background?",
+      "answer": "I hold a BS in Information Technology from Lyceum of Subic Bay (2013-2017). I've continuously enhanced my skills through certifications in NetSuite, Google Analytics, Modern React JS, and Microsoft Office Access."
+    },
+    {
+      "id": 14,
+      "category": "Background",
+      "question": "Where are you located?",
+      "answer": "I'm based in Subic, Zambales, Philippines. I work as a Senior NetSuite Developer at TAC Solutions Group and have experience collaborating with international clients and teams."
+    },
+    {
+      "id": 15,
+      "category": "Background",
+      "question": "How can I contact you for consulting services?",
+      "answer": "You can reach me via email at dguerzon06@gmail.com or call (+63) 977 363 8041. You can also connect with me on LinkedIn at linkedin.com/in/danielleguerzon or check my GitHub at github.com/takasu-kun."
+    }
+  ]
+}
